@@ -1,0 +1,41 @@
+body{
+    background-color: #fb551c;
+}
+
+h1{
+    font-size: 600%;
+    font-stretch: 800;
+    width: fit-content;
+    background-color: white;
+}
+
+#log_in{
+    color: black;
+}
+
+#play{
+    background-color: #9b2700;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10%;
+    font-size: 400%;
+    padding: 1%;
+    border: none;
+    border-radius: 20px;
+    transition-duration: 0.4s;
+}
+#play:hover{
+    color: white;
+    background: black;
+    transition-duration: 0.4s;
+}
+
+#header{
+    background-color: gray;
+    padding: 1%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 3%;
+}
